@@ -1,0 +1,11 @@
+Linear_Regression
+    Mean:  5.047389365308877
+    STD:  1.0322438897390525
+    
+DecisionTreeRegressor
+    Mean:  5.098943033404566
+    STD:  1.3828754738736915
+    
+RandomForestRegressor
+    Mean:  3.487587183880521
+    STD:  0.7794503195361568
